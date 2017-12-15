@@ -1,0 +1,1 @@
+# oc-rabbitmq-connector
